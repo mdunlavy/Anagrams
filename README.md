@@ -1,5 +1,4 @@
 # Project 1 - Anograms
-## Ryan Scherbarth, Maisy Dunlavy, Molly Palko
 
 ## Overview
 Upon starting the game, you'll be greeted with a few options:
